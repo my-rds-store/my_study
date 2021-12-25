@@ -6,7 +6,6 @@ How To Improve Your Listening Skills
     <iframe src="https://player.bilibili.com/player.html?aid=632565369&bvid=BV1Gb4y1m7wm&cid=396265320&page=1" 
         scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
         quality='high' width='600' height='400' align='middle' allowScriptAccess='always'> 
-
     </iframe>
 
 
@@ -40,6 +39,7 @@ listening has the tremendous advantage. that we can do it wherever we are.
 I don't have my Air pods handy but i have my Airpods , and i recently bought a new kind of Airpod. that sits outsid the ear , and they work really well. I went jogging yesterday , and i could hear very vell. and i don't have these things actually plugged into my ear. 
 
 but I can listen first thing in the morning . 
+
 I get up i have little seven minute exercise routine i listen. 
 i make breakfast i listen , 
 if i exercise during the day i listening , 
@@ -66,6 +66,7 @@ and not understand anyting or only uanderstand five percent.
 that is very inefficient in my experience.
 so if I listen to something 
 obviously at the early stages in the language.
+
 i don't understand anything. but then i will read it .
 i will look up the words i'll review them in LingQ.
 read it again then i'll listen.
@@ -84,6 +85,7 @@ in other words the brain as i've said many times requies repetition and novelty.
 so you can listen to an item a few times.
 and then move to the next item ,
 even if you don't fully understand the first .
+
 so you have lesson one and you listen and you listen,and you read it then you listen agian, and you understand twenty thirty percent, move on to the next one.
 don't try to you know master. 
 and particular lesson or conten item.
