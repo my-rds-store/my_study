@@ -10,6 +10,7 @@ Welcome to my_study's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   english/index
 
 
 Indices and tables
