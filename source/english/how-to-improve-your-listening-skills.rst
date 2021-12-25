@@ -5,9 +5,10 @@ How To Improve Your Listening Skills
 
     <iframe src="https://player.bilibili.com/player.html?aid=632565369&bvid=BV1Gb4y1m7wm&cid=396265320&page=1" 
         scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
-        quality='high' width='600' height='400' align='middle' allowScriptAccess='always'> 
+        quality='high'  align='middle' allowScriptAccess='always'> 
     </iframe>
 
+.. width='400' 
 
 
 ------
