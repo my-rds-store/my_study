@@ -10,6 +10,7 @@ How To Improve Your Listening Skills
 
 ------
 
+
 remenber you nead repetition and nonvelty , 
 after a while if you're listening to same thing over and over again, 
 the brain is picking up less and less and less.
@@ -88,7 +89,7 @@ when you are not focused on what you're listening to .
 you lose track ,you your mind wanders off somewhere else . 
 
 that's fine , as long as you come back , 
-and so let's say for a period of 30 minutes , 
+and so let's say for a **period** of 30 minutes , 
 that i'm in the car listening to something. 
 
 maybe i'm only focused on what i'm listening to for half that time 
