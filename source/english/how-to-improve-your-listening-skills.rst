@@ -10,7 +10,6 @@ How To Improve Your Listening Skills
 
 ------
 
-
 remenber you nead repetition and nonvelty , 
 after a while if you're listening to same thing over and over again, 
 the brain is picking up less and less and less.
@@ -47,29 +46,29 @@ but i can't sit down and just listen.
 if i ware to sit and i've tried it . 
 so i have whatever lesson i'm listening to and i sit down comfortabel chair , 
 and i say I'm going to spend half an hour listening to this podcast(播客) or whatever is might be,  
-I'm incapable of doing that, 
-my mind wanders, so i can't concentrate . 
+I'm **incapable** of doing that, 
+my mind **wanders** , so i can't **concentrate** . 
 
-if i have dedicated study time then I'm going to read 
+if i have **dedicated** study time then I'm going to read 
 or I'm going to work on my ipad with LingQ. 
 
 so where dose the listening come in . 
-listening has the tremendous advantage , that we can do it wherever we are. 
+listening has the **tremendous** **advantage** , that we can do it wherever we are. 
 
-I don't have my Air pods handy 
+I don't have my Air pods handy , 
 but i have my Airpods , 
 and i recently bought a new kind of Airpod. 
 that sits outsid the ear , and they work really well. 
-I went jogging yesterday , and i could hear very vell. 
+I went **jogging** yesterday , and i could hear very vell. 
 and i don't have these things actually plugged into my ear. 
 
 but I can listen first thing in the morning . 
-I get up i have little seven minute exercise routine i listen. 
+I get up i have little seven minute **exercise** **routine** i listen. 
 
 i make breakfast i listen , 
-if i exercise during the day i listening , 
-if  i'm in the car i listen. 
-so you've got all this time to listen ,all right. 
+if i exercise **during the day** i listening , 
+if i'm in the car i listen. 
+so you've got all this time to listen , all right. 
 
 so then people say well, when you are listening do you always focus ? 
 
@@ -77,16 +76,16 @@ all right, it is impossible to 100 focus while listening .
 
 you have to like so mach in language learning. 
 
-you have to accept imperfection. 
+you have to accept **imperfection** . 
 
 so when speak you're going to make mistakes.  
 
 when you listen there's going to be lots of areas you don't understand ,
 
-there are also going to be moments 
+there are also going to be **moments** 
 when you are not focused on what you're listening to . 
 
-you lose track ,you your mind wanders off somewhere else . 
+you lose track ,you your mind **wanders** off somewhere else . 
 
 that's fine , as long as you come back , 
 and so let's say for a **period** of 30 minutes , 
@@ -97,7 +96,7 @@ or i don't know what the number is,
 because i don't worry about is .
 but i know it's not a hundred percent of the time.
 
-but for whatever percentage of the time.
+but for whatever **percentage** of the time.
 I'm listening i'm **exposing** my brain to the language
 and I'am getting used to the launguage.
 
@@ -138,7 +137,7 @@ and you read it then you listen agian,
 and you understand twenty thirty percent, move on to the next one.
 
 don't try to you know master. 
-and **particular** lesson or content item.
+and **particular** lesson or **content** item.
 it's all **exposure**, it's all helping the brain get used to the language.
 
 remember you nead repetition and novelty, after a while
@@ -146,7 +145,8 @@ if you're listening to the same thing over and over again.
 the brain is picking up less and less and less.
 
 so you have to move to the next lesson, and to next lesson
-so keep pushing yourself forward , **maintain** that **balance** between repetition and novelty.
+so keep pushing yourself forward ,  `maintain`_  that **balance** between repetition and novelty.
+
 
 and there's all kinds of research **into** how the brian learns that sort of block learning, 
 that third fourth fifth time we read something or we listen to something.
@@ -159,7 +159,7 @@ don't worry about what you don't understand.
 keep challenging or rewarding you brain with new **material** .
 
 but do have enough repetition.
-so that you start to notice **certain** things that you didn't notice the first time.
+so that you start to notice certain  things that you didn't notice the first time.
 
 and this is the next point about listening.
 
@@ -214,15 +214,15 @@ listening **fading out** focusing in again .
 that works better for me than trying to sit down ,
 and say okay for the next half hour i'm to listen to this all right.
 
-the exception of that of course , 
+the **exception** of that of course , 
 is if you're watching a movie which is a form of listing ,
 but you're watching and listening at the same time.
 
 and it's rewarding because it's fun to watch movie.
-and you can see the people , you can almost feel as if you're participating with this familay.
+and you can see the people , you can almost feel as if you're **participating** with this familay.
 that's why series you know on netflix are so great.
 if it's the same group of people.
-interacting all the time in the series.
+**interacting** all the time in the series.
 
 and you watch them and you feel you're part of them 
 and you're getting that sense of being in that cultural.
@@ -246,7 +246,57 @@ so that's my advice treat listening.
 and listening comprehension.
 not only as a primary goal in language learing. 
 but as an important way of helping you brain.
-become accustomend to the language.
-so I hope that was helpfull thank you for listening .
+become accustomed to the language.
+so I hope that was helpfull,  
+thank you for listening .
 
 
+-----------------
+
+.. _maintain:
+
+* **maintain** :  [meɪnˈteɪn] v. 维持;保持;维修;保养;坚持(意见);固执己见;供养
+
+
+.. .. rubric:: 注释
+.. .. [#fn] **rewarding** : [rɪˈwɔːrdɪŋ]  v. 奖励;奖赏;给以报酬 ; adj.  有益的;值得做的;报酬高的 ; reward的现在分词
+.. .. [#fn] **certain** : 英 [ˈsɜːtn] , 美 [ˈsɜːrtn]  pron.  (不提及人或事物的名称时用)某些 adj.  肯定;确定;确实;确信;无疑;(不提及细节时用)某事，某人，某种;某某，某位，一位叫…的;轻微的
+
+gradual : 逐渐的 ; 渐进的 ; 逐步的 ; 平缓的 ; 不陡的 ; 
+acquisition : 英 [ˌækwɪˈzɪʃn]   美 [ˌækwɪˈzɪʃn]  n.  (知识、技能等的)获得，得到;(多指贵重的)购得物;购置物;收购的公司;购置的产业;购置;收购
+ability: 英 [əˈbɪləti]  , 美 [əˈbɪləti]  n.  能力;才能;本领;才智
+variety: 英 [vəˈraɪəti] ,  美 [vəˈraɪəti]  n.  (同一事物的)不同种类，多种式样;变化;多样化;多变性;(植物、语言等的)变种，变体;异体;品种;综艺节目
+
+combine: 英 [kəmˈbaɪn , ˈkɒmbaɪn]   美 [kəmˈbaɪn , ˈkɑːmbaɪn]  v.  (使)结合;联合;混合;兼有;兼备;使融合(或并存);同时做(两件或以上的事);兼做;兼办;合并 n.  联合收割机;集团;联合企业
+
+aspects: 英 [ˈæspɛkts]   美 [ˈæˌspɛkts]  n.  方面;层面;样子;外观;外表;朝向;方位
+pronunciation: 英 [prəˌnʌnsiˈeɪʃn]   美 [prəˌnʌnsiˈeɪʃn]  n.  发音;读音;(某人的)发音
+aware: 英 [əˈweə(r)]   美 [əˈwer]  adj.  意识到的;意识到;知道;明白;察觉到;发觉;发现;对…有兴趣的;有…意识的
+
+frustrated: 英 [frʌˈstreɪtɪd]   美 [ˈfrʌstreɪtɪd]  adj.  沮丧的;沮丧;失意的;懊丧;懊恼;无效的;没有得到满足的;不得志的;性欲没有得到满足的 v.
+挫败;使懊丧;使懊恼;使沮丧;阻止;防止 frustrate的过去分词和过去式
+
+in my own case:  以我为例;以我为例
+
+prefer : 英 [prɪˈfɜː(r)]   美 [prɪˈfɜːr]  v.  更喜欢;较喜欢;喜欢…多于…
+
+fading out : 英 [ˈfeɪdɪŋ aʊt]   美 [ˈfeɪdɪŋ aʊt]  渐离;渐隐
+
+participating : 英 [pɑːˈtɪsɪpeɪtɪŋ]   美 [pɑːrˈtɪsɪpeɪtɪŋ]  v.  参加;参与 participate的现在分词
+
+interacting : 英 [ˌɪntərˈæktɪŋ]   美 [ˌɪntərˈæktɪŋ]  v.  交流;沟通;合作;相互影响;相互作用 interact的现在分词
+
+conjures : 英 [ˈkʌndʒəz]   美 [ˈkʌndʒərz]  v.  变魔术;变戏法;使…变戏法般地出现(或消失) conjure的第三人称单数
+
+automatically : 英 [ˌɔːtəˈmætɪkli]   美 [ˌɔtəˈmætɪkli]  adv.  自动地；机械地；无意识地 adj.  不经思索的
+
+preparing: 英 [prɪˈpeərɪŋ]   美 [prɪˈperɪŋ]  v.  使做好准备;把…预备好;使(自己)有准备;防范;预备(饭菜);做(饭)
+
+fluent : 英 [ˈfluːənt]   美 [ˈfluːənt]  adj.  (尤指外语)流利，文字流畅;流利的;通畅的;流畅熟练的
+
+advice : 英 [ədˈvaɪs]   美 [ədˈvaɪs]  n.  劝告;忠告;建议;意见
+treat : 英 [triːt]   美 [triːt]  vt.  对待;治疗;处理;把…看作;把…视为;讨论;医疗;处理，保护，保存;招待 n.  款待;乐事;乐趣 第三人称单数： treats复数： treats现在分词： treating过去式： treated过去分词： treated 派生词： treatable adj.
+
+primary : 英 [ˈpraɪməri]   美 [ˈpraɪmeri]  adj.  初级的;主要的;最重要的;基本的;最初的;最早的;初等教育的;小学教育的 n.  (美国)初选
+
+accustomed : 英 [əˈkʌstəmd]   美 [əˈkʌstəmd]  adj.  习惯的;习惯于;惯常的;通常的 v.  使习惯(于);使适应 accustom的过去分词和过去式
