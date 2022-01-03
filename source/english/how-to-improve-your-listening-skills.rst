@@ -263,12 +263,11 @@ you are **preparing** [#f63]_ youself to become **fluent** [#f64]_ in the langua
 .. 当你的听力理解能力,提高到这个水平时,
 .. 你差不多就能流利的应用这门语言。
 
-so that's my **advice** [#f65]_ **treat** [#f66]_ listening.
-and listening comprehension.
+so that's my **advice** [#f65]_ **treat** [#f66]_ listening and listening comprehension.
 
 .. 这是我对听以及听力理解的一些建议
 
-not only as a **primary** [#f67]_ goal in language learing. 
+not only as a **primary** [#f67]_ goal in language learing, 
 but as an important way of helping you brain become **accustomed** [#f68]_ to the language.
 
  .. 不仅仅是作为学习语言的一个主要目标
