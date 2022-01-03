@@ -31,7 +31,7 @@ this is a best achieved through listening and reading .
 reading helps you acquire more words,  
 but listening gets your brain used to the language , 
 
-and ofcourse listening **comprehension** is a **tremendously** important skill. 
+and ofcourse listening **comprehension** [#f1]_  is a **tremendously** [#f2]_ important skill. 
 
 because if you're speaking to some one and we all want to speak in the language , 
 if you can't understand what they're saying , what the other person is saying , 
@@ -46,24 +46,24 @@ but i can't sit down and just listen.
 if i ware to sit and i've tried it . 
 so i have whatever lesson i'm listening to and i sit down comfortabel chair , 
 and i say I'm going to spend half an hour listening to this podcast(播客) or whatever is might be,  
-I'm **incapable** of doing that, 
-my mind **wanders** , so i can't **concentrate** . 
+I'm **incapable** [#f3]_ of doing that, 
+my mind **wanders** [#f4]_ , so i can't **concentrate** [#f5]_ . 
 
-if i have **dedicated** study time then I'm going to read 
+if i have **dedicated** [#f6]_ study time then I'm going to read 
 or I'm going to work on my ipad with LingQ. 
 
 so where dose the listening come in . 
-listening has the **tremendous** **advantage** , that we can do it wherever we are. 
+listening has the **tremendous** [#f7]_ **advantage**  [#f8]_ , that we can do it wherever we are. 
 
 I don't have my Air pods handy , 
 but i have my Airpods , 
 and i recently bought a new kind of Airpod. 
 that sits outsid the ear , and they work really well. 
-I went **jogging** yesterday , and i could hear very vell. 
+I went **jogging**  [#f9]_ yesterday , and i could hear very vell. 
 and i don't have these things actually plugged into my ear. 
 
 but I can listen first thing in the morning . 
-I get up i have little seven minute **exercise** **routine** i listen. 
+I get up i have little seven minute **exercise**  [#f10]_ **routine** [#f11]_ i listen. 
 
 i make breakfast i listen , 
 if i exercise **during the day** i listening , 
@@ -258,7 +258,24 @@ thank you for listening .
 * **maintain** :  [meɪnˈteɪn] v. 维持;保持;维修;保养;坚持(意见);固执己见;供养
 
 
-.. .. rubric:: 注释
+.. rubric:: 注释
+
+.. [#f1] **comprehension** :  英 [ˌkɒmprɪˈhenʃn]   美 [ˌkɑːmprɪˈhenʃn]  n.  理解力;领悟能力;(语言学习中的)理解练习(或训练)
+.. [#f2] **tremendously** : 英 [trɪˈmɛndəsli]   美 [trəˈmɛndəsli]  adv.  极大地;巨大;特别;非常地;极地
+.. [#f3] **incapable** : 英 [ɪnˈkeɪpəbl]   美 [ɪnˈkeɪpəbl]  adj.  无能的;没有能力(做某事);不能克制自己的;不能自理的;什么事也做不好的
+.. [#f4] **wanders** : 英 [ˈwɒndəz]   美 [ˈwɑːndərz]  v.  漫游;游荡;闲逛;徘徊;流浪;漂泊;偏离(正道);走失;离散;走神;神志恍惚;(思想)开小差 wander的第三人称单数
+.. [#f5] **concentrate** : 英 [ˈkɒnsntreɪt]   美 [ˈkɑːnsntreɪt]  v.  集中(注意力);聚精会神;使…集中(或集合、聚集);(使)浓缩 n.  浓缩物
+.. [#f6] **dedicated** : 英 [ˈdedɪkeɪtɪd]   美 [ˈdedɪkeɪtɪd]  adj.  献身的;专用的;专心致志的;一心一意的 v.  把…奉献给;(在书、音乐或作品的前部)题献词;为…举行奉献典礼;为(建筑物等)举行落成典礼 dedicate的过去分词和过去式
+.. [#f7] **tremendous** : 英 [trəˈmendəs]   美 [trəˈmendəs]  adj.  巨大的;极大的;极好的;精彩的;了不起的
+.. [#f8] **advantage**  :  英 [ədˈvɑːntɪdʒ]   美 [ədˈvæntɪdʒ]  n.  有利条件;有利因素;优势;优点;(局末平分后)占先;优势分 vt.  使处于有利地位;有利于;有助于
+.. [#f9] **jogging** : 英 [ˈdʒɒɡɪŋ]   美 [ˈdʒɑːɡɪŋ]  v.  慢跑(尤指锻炼);(偶然地)轻击;轻碰 n.  慢跑锻炼 jog的现在分词
+.. [#f10] **exercise** : 英 [ˈeksəsaɪz]   美 [ˈeksərsaɪz]  n.  运动;练习;习题;(身体或脑力的)活动;锻炼;(保持健康或培养技能的)一套动作;训练活动;行使;活动;（士兵的）操练，演习，演练;典礼 v.  行使;训练;使用;运用;操练;锻炼(身体某部位);使焦虑
+.. [#f11] **routine** : 英 [ruːˈtiːn]   美 [ruːˈtiːn]  n.  常规;正常顺序;生活乏味;无聊;(演出中的)一套动作，一系列笑话(等);例行程序 adj.  常规的;例行公事的;日常的;平常的;正常的;毫不特别的;乏味的;平淡的
+
+
+
+
+
 .. .. [#fn] **rewarding** : [rɪˈwɔːrdɪŋ]  v. 奖励;奖赏;给以报酬 ; adj.  有益的;值得做的;报酬高的 ; reward的现在分词
 .. .. [#fn] **certain** : 英 [ˈsɜːtn] , 美 [ˈsɜːrtn]  pron.  (不提及人或事物的名称时用)某些 adj.  肯定;确定;确实;确信;无疑;(不提及细节时用)某事，某人，某种;某某，某位，一位叫…的;轻微的
 
@@ -300,6 +317,7 @@ preparing: 英 [prɪˈpeərɪŋ]   美 [prɪˈperɪŋ]  v.  使做好准备;把�
 fluent : 英 [ˈfluːənt]   美 [ˈfluːənt]  adj.  (尤指外语)流利，文字流畅;流利的;通畅的;流畅熟练的
 
 advice : 英 [ədˈvaɪs]   美 [ədˈvaɪs]  n.  劝告;忠告;建议;意见
+
 treat : 英 [triːt]   美 [triːt]  vt.  对待;治疗;处理;把…看作;把…视为;讨论;医疗;处理，保护，保存;招待 n.  款待;乐事;乐趣 第三人称单数： treats复数： treats现在分词： treating过去式： treated过去分词： treated 派生词： treatable adj.
 
 primary : 英 [ˈpraɪməri]   美 [ˈpraɪmeri]  adj.  初级的;主要的;最重要的;基本的;最初的;最早的;初等教育的;小学教育的 n.  (美国)初选
