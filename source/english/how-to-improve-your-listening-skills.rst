@@ -147,7 +147,7 @@ so you have to move to the next lesson, and to next lesson
 so keep pushing yourself forward ,  **maintain** [#f29]_  that **balance** [#f30]_ between repetition and novelty.
 
 
-and there's all kinds of **research** [#f31]**  **into** how the brian learns that sort of block learning, 
+and there's all kinds of **research** [#f31]_  **into** how the brian learns that sort of block learning, 
 that third fourth fifth time we read something or we listen to something.
 .(有一些涉及大脑学习的影响因素的研究表明当我们重复听或读某些内容到了第三遍四遍五遍) 
 we are in fact learning less and less.
@@ -190,7 +190,7 @@ and remember that listening **comprehension** [#f1]_ here is the goal.
 it's not going to be perfect , but it will **gradually** **improve** [#f41]_ .
 and the better your listening **comprehension** [#f1]_ , the better your **ability** [#f42]_ to have conversasions. 
 
-but again give yourself, you konw a **variety** [#f43]_ between repetion.  (重复过程中穿插变化)
+but again, give yourself you konw a **variety** [#f43]_ between repetion.  (重复过程中穿插变化)
 repetitious **material** and new challenging **material** .
 **combine** [#f44]_ reading with listening.
 
@@ -221,7 +221,7 @@ but you're watching and listening at the same time.
 and it's **rewarding** [#f55]_ because it's fun to watch movie.
 (这算是一种奖励的形式，因为看电影很有趣)
 
-and you can see the people , you can almost feel **as if**[#56]_ you're **participating** [#f57]_ with this family.
+and you can see the people , you can almost feel **as if** [#f56]_  you're **participating** [#f57]_ with this family.
 (你可以看到那些人,你可以感受到就像自己成为了，其中的的一部分一样)
 
 that's why series you know on netflix are so great.
