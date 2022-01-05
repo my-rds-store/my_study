@@ -343,7 +343,7 @@ so I hope that was helpfull,  thank you for listening .
 .. [#f58] **interacting** : 英 [ˌɪntərˈæktɪŋ]   美 [ˌɪntərˈæktɪŋ]  v.  交流;沟通;合作;相互影响;相互作用 interact的现在分词
 .. [#f59] **sense** : 英 [sens]   美 [sens]  n.  感觉;感觉官能(即视、听、嗅、味、触五觉);(对重大事情的)意识;理解力;判断力;见识;健全的心智;意义 v.  感觉到;意识到;觉察出;检测出
 .. [#f60] **atmosphere** : 英 [ˈætməsfɪə(r)]   美 [ˈætməsfɪr]  n.  气氛;(围绕地球的)大气，大气层，大气圈;(围绕其他天体的)气体;(房间、封闭空间或某处的)空气
-.. [#f61] **conjures up ** :  让人想起; **conjures** 英 [ˈkʌndʒəz]   美 [ˈkʌndʒərz]  v.  变魔术;变戏法;使…变戏法般地出现(或消失) conjure的第三人称单数
+.. [#f61] **conjures up** :  让人想起; **conjures** 英 [ˈkʌndʒəz]   美 [ˈkʌndʒərz]  v.  变魔术;变戏法;使…变戏法般地出现(或消失) conjure的第三人称单数
 .. [#f62] **automatically** : 英 [ˌɔːtəˈmætɪkli]   美 [ˌɔtəˈmætɪkli]  adv.  自动地；机械地；无意识地 adj.  不经思索的
 .. [#f63] **preparing** : 英 [prɪˈpeərɪŋ]   美 [prɪˈperɪŋ]  v.  使做好准备;把…预备好;使(自己)有准备;防范;预备(饭菜);做(饭)
 .. [#f64] **fluent** : 英 [ˈfluːənt]   美 [ˈfluːənt]  adj.  (尤指外语)流利，文字流畅;流利的;通畅的;流畅熟练的
