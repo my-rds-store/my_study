@@ -11,6 +11,7 @@ BBC
 
 
 * **任务： 将视频合并，上传 bilibili, 原始链接隐藏**
+* 把生词，写在, 网页下方。
 
 * BBC 亲子故事待整理 <https://www.bbc.co.uk/learningenglish/chinese/features/storytellers>`_
 * https://www.bbc.co.uk/learningenglish/english/features/childrens-stories
