@@ -25,17 +25,22 @@ Georgina
     And I’m Georgina.
 
 Rob
-    Now, Georgina, you recently mentioned [#f1]_ in one 6 Minute English programme about NFTs and that you had a collection [#f2]_ of Pokemon cards when you were younger. 
+    Now, Georgina, you recently mentioned [#f1]_ in one 6 Minute English programme about NFTs 
+    and that you had a collection [#f2]_ of Pokemon cards when you were younger. 
 
 Georgina
     Yes – I did, and I still can’t find them. Why did you **bring that up**? 
 
 Rob
-    Well, Pokemon **started out** [#f3]_ as a video game series that turned into anime [#f4]_ movies and trading [#f5]_ cards among other things 
-    – and in this programme we’re talking about a video game character [#f6]_ that is iconic [#f7]_ – a word which means widely [#f8]_ known and recognised [#f9]_ . That character’s name is Super Mario.
+    Well, Pokemon **started out** [#f3]_ as a video game series that turned into anime [#f4]_ movies 
+    and trading [#f5]_ cards among other things 
+    – and in this programme we’re talking about a video game character [#f6]_ that is **iconic** [#f7]_ 
+    – a word which means widely [#f8]_ known and recognised [#f9]_ . 
+    That character’s name is Super Mario.
 
 Georgina
-    Ahhh I spent many hours of my childhood playing with Nintendo’s Super Mario or his rival [#f10]_, Sega’s Sonic the Hedgehog [#f11]_ .
+    Ahhh I spent many hours of my childhood playing with Nintendo’s Super Mario 
+    or his rival [#f10]_, Sega’s Sonic the Hedgehog [#f11]_ .
 
 Rob
     Now, these days, video games are everywhere, and people of all ages enjoy playing them. 
