@@ -51,7 +51,6 @@ Georgina
 
 Rob
     Talking about celebrities, I have a question about the famous character we’re talking about in this programme. Many people remember Super Mario Bros. as being the first time we saw Mario, but he first appeared in another game – which was it? Was it:
-
     ::
 
             a) The Legend of Zelda
