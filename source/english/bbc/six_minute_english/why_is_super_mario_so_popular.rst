@@ -47,18 +47,21 @@ Georgina
     Yes, and there are also streamers that appear [#f17]_ on  platforms like Twitch and YouTube who have become celebrities [#f18]_ **in their own right** [#f19]_ .
 
 Rob
-    Talking about celebrities [#f18]_ , I have a question about the famous character we’re talking about in this programme. Many people remember Super Mario Bros. as being the first time we saw Mario, but he first appeared in another game – which was it? Was it:
+    Talking about celebrities [#f18]_ , I have a question about the famous [#f20]_ character we’re talking about in this programme.
+    Many people remember Super Mario Bros [#f21]_ . as being the first time we saw Mario, but he first appeared [#f17]_ in another game – which was it? Was it:
     ::
 
-            a) The Legend of Zelda
-            b) Donkey Kong; or
-            c) Pokemon
+            a) The Legend of Zelda - 《塞尔达传说》
+            b) Donkey Kong; or    - 《大金刚》
+            c) Pokemon -《宠物小精灵》
+
 
 Georgina
     I’m not sure about that – I can’t remember him being in Pokemon, so I’ll go for a) The Legend of Zelda. 
 
 Rob
-    OK, Georgina, we’ll find out if you’re right at the end of the programme. So, we established at the start of the programme that these days the video games industry is thriving.
+    OK, Georgina, we’ll **find out** if you’re right at the end of the programme. 
+    So, we established [#f22]_ at the start of the programme that these days the video games industry [#f23]_ is thriving [#f24]_ .
 
 Georgina
     True – but it wasn’t always that way. It’s hard to imagine now, but in the 1980s the console market was struggling, particularly in the US.
@@ -78,7 +81,7 @@ Rob
     She used cited, which means referenced or noted, when talking about the game ET being a reference for a factor in the collapse of the console market.
 
 Georgina
-    And she said boom – a sudden period of growth. So as ET was mentioned [#f1]_ as a factor in the collapse, many people say that Super Mario Bros. was the reason that video games really took off, especially in the US.
+    And she said boom – a sudden period of growth. So as ET was mentioned [#f1]_ as a factor in the collapse, many people say that Super Mario Bros [#f21]_ . was the reason that video games really took off, especially in the US.
 
 Rob
     It’s interesting to consider what might have been if his creator, Shigeru Miyamoto, had never created that character [#f6]_ . The question is, why is that game so popular, what made it so fun to play?
@@ -87,7 +90,7 @@ Georgina
     Here is Keza Macdonald speaking again with Peter White, on BBC World Service programme, You and Yours, explaining why Mario is just so popular and what makes the original game so satisfying to play.
 
 Keza MacDonald
-    It’s just such a joy to play. It's running and jumping, and it's the joy of movement. When, when you play, even the original Super Mario Bros, you just feel this sense of joy in your movement, and it's one of the greatest games ever made. And a lot of games from 35 years ago are basically unplayable now. They might have been a step to something greater, but Mario was one of those few that really holds up today as it did then.
+    It’s just such a joy to play. It's running and jumping, and it's the joy of movement. When, when you play, even the original Super Mario Bros [#f21]_ , you just feel this sense of joy in your movement, and it's one of the greatest games ever made. And a lot of games from 35 years ago are basically unplayable now. They might have been a step to something greater, but Mario was one of those few that really holds up today as it did then.
 
 Rob
     Keza Macdonald said that some games from 35 years ago are unplayable – so, not possible to play them.
@@ -102,7 +105,7 @@ Georgina
     Which reminds me of your quiz question, Rob.
 
 Rob
-    Yes, in my quiz question I asked Georgina which game had the first appearance of that famous plumber, Mario.
+    Yes, in my quiz question I asked Georgina which game had the first appearance of that famous [#f20]_ plumber, Mario.
 
 Georgina
     I went for a) The Legend of Zelda.
@@ -159,3 +162,8 @@ Georgina
 .. [#f17] **appear** : 英 [əˈpɪə(r)]   美 [əˈpɪr]  v.  显得;看来;似乎;出现;呈现;显现;起源;首次使用;出版;演出;抵达;记载;出庭（作证或受审）
 .. [#f18] **celebrities** : 英 [sɪˈlɛbrɪtiz]   美 [səˈlɛbrɪtiz]  n.  名人;名流;名望;名誉;著名 celebrity的复数
 .. [#f19] **in their own right** : 凭他们本身的实力
+.. [#f20] **famous** : 英 [ˈfeɪməs]   美 [ˈfeɪməs]  adj.  著名的;出名的
+.. [#f21] **bros** : 英 [brəʊz]   美 [broʊz]  abbr.  (用于公司名称)兄弟
+.. [#f22] **established** : 英 [ɪˈstæblɪʃt]   美 [ɪˈstæblɪʃt]  adj.  已确立的;已获确认的;确定的;著名的;成名的;公认的;成为国教的 v.  建立;创立;设立;建立(尤指正式关系);确立;使立足;使稳固 establish的过去分词和过去式
+.. [#f23] **industry** : 英 [ˈɪndəstri]   美 [ˈɪndəstri]  n.  工业;生产制造;行业;勤奋;勤劳
+.. [#f24] **thriving** : 英 [ˈθraɪvɪŋ]   美 [ˈθraɪvɪŋ]  v.  兴旺发达;繁荣;蓬勃发展;旺盛;茁壮成长 thrive的现在分词
