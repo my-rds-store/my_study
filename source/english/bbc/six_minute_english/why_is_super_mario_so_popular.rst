@@ -44,10 +44,10 @@ Rob
     There’s also competitive [#f12]_ e-sports events where gamers compete [#f13]_  for what are often [#f14]_ considerable [#f15]_ amounts [#f16]_ of money.
 
 Georgina
-    Yes, and there are also streamers that appear on platforms like Twitch and YouTube who have become celebrities in their own right.
+    Yes, and there are also streamers that appear [#f17]_ on  platforms like Twitch and YouTube who have become celebrities [#f18]) **in their own right** [#f19]_ .
 
 Rob
-    Talking about celebrities, I have a question about the famous character we’re talking about in this programme. Many people remember Super Mario Bros. as being the first time we saw Mario, but he first appeared in another game – which was it? Was it:
+    Talking about celebrities [#f18]_ , I have a question about the famous character we’re talking about in this programme. Many people remember Super Mario Bros. as being the first time we saw Mario, but he first appeared in another game – which was it? Was it:
     ::
 
             a) The Legend of Zelda
@@ -156,3 +156,6 @@ Georgina
 .. [#f14] **often** : 英 [ˈɒfn]   美 [ˈɔːfn]  adv.  经常;往往;常常;时常;大多
 .. [#f15] **considerable** : 英 [kənˈsɪdərəbl]   美 [kənˈsɪdərəbl]  adj.  相当大的;相当多(或大、重要等)的
 .. [#f16] **amounts** : 英 [əˈmaʊnts]   美 [əˈmaʊnts]  n.  金额;数量;数额 v.  合计，共计;等同，接近 amount的第三人称单数和复数
+.. [#f17] **appear** : 英 [əˈpɪə(r)]   美 [əˈpɪr]  v.  显得;看来;似乎;出现;呈现;显现;起源;首次使用;出版;演出;抵达;记载;出庭（作证或受审）
+.. [#f18] **celebrities** : 英 [sɪˈlɛbrɪtiz]   美 [səˈlɛbrɪtiz]  n.  名人;名流;名望;名誉;著名 celebrity的复数
+.. [#f19] **in their own right** : 凭他们本身的实力
