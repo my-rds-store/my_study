@@ -6,8 +6,6 @@
 English Study
 ====================================
 
-
-
 .. raw:: html
 
     <!doctype html>
@@ -36,9 +34,8 @@ English Study
    :maxdepth: 2
    :caption: Contents:
 
-   how-to-improve-your-listening-skills
-   bbc/bbc
-   bbc/six_minute_english
+   youtube/index
+   bbc/index
 
 
 

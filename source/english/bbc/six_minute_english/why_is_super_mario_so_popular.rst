@@ -1,9 +1,6 @@
-6 Minute English
-===================
-
-
 Why is Super Mario so popular?
------------------------------------
+================================
+
 
 * `bbc <https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-211111>`_
 * `ibbc <https://www.ibbc.net.cn/detail?id=1321>`_
