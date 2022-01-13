@@ -44,7 +44,7 @@ Rob
     There’s also competitive [#f12]_ e-sports events where gamers compete [#f13]_  for what are often [#f14]_ considerable [#f15]_ amounts [#f16]_ of money.
 
 Georgina
-    Yes, and there are also streamers that appear [#f17]_ on  platforms like Twitch and YouTube who have become celebrities [#f18]) **in their own right** [#f19]_ .
+    Yes, and there are also streamers that appear [#f17]_ on  platforms like Twitch and YouTube who have become celebrities [#f18]_ **in their own right** [#f19]_ .
 
 Rob
     Talking about celebrities [#f18]_ , I have a question about the famous character we’re talking about in this programme. Many people remember Super Mario Bros. as being the first time we saw Mario, but he first appeared in another game – which was it? Was it:
