@@ -79,7 +79,7 @@ Keza MacDonald
     And, so we’d had that, especially in America, this didn't happen so much in Europe, 
     but in America just been lots and lots of software.  None of it was all that great. 
     There hadn't been anything really revolutionary [#f38]_ in some years, 
-    so the video game boom [#f39] was really **falling off a cliff ** [#f40] and Nintendo **is what rescued** [#f41]_ in the US especially.
+    so the video game boom [#f39] was really **falling off a cliff** [#f40]_ and Nintendo **is what rescued** [#f41]_ in the US especially.
 
 Georgina
     Keza MacDonald used the term **a flood of**  – meaning a large number in a short period of time 
