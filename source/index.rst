@@ -14,6 +14,25 @@ Welcome to my_study's documentation!
    math/index
 
 
+---
+
+* `山东理工大学硕士招生 <https://yjsh.sdut.edu.cn/5153/list.htm>`_
+   * `山东理工大学2022年招收攻读硕士学位研究生招生简章 <https://yjsh.sdut.edu.cn/2021/0915/c5153a438567/page.htm>`_
+   * `2022 年硕士研究生招生专业目录 <https://yjsh.sdut.edu.cn/_upload/article/files/b2/1f/f203b0f34b4c92abaa81942de5bd/8b3156d9-4f8d-4494-b2cd-5a005e63e30d.pdf>`_
+
+------
+
+*  `北航 <http://yzb.buaa.edu.cn/xlss/zymlcx.htm>`_  -  021软件学院
+   * `北航2022年招收学历硕士研究生考试大纲 <http://yzb.buaa.edu.cn/info/1003/2431.htm>`_
+
+-----------
+
+*  `北京科技大学 <https://yzxc.ustb.edu.cn/sssbkzn/sszszc/index.htm>`_ - 软件工程
+  
+
+
+
+
 .. Indices and tables
 .. ==================
 
