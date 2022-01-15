@@ -99,25 +99,35 @@ Rob
     The question is, why is that game so popular, what made it so fun to play?
 
 Georgina
-    Here is Keza Macdonald speaking again with Peter White, on BBC World Service programme, You and Yours, explaining why Mario is just so popular and what makes the original game so satisfying to play.
+    Here is Keza Macdonald speaking again with Peter White, on BBC World Service programme, You and Yours, 
+    explaining why Mario is just so popular and what makes the original game so satisfying [#f44]_ to play.
 
 Keza MacDonald
-    It’s just such a joy to play. It's running and jumping, and it's the joy of movement. When, when you play, even the original Super Mario Bros [#f21]_ , you just feel this sense of joy in your movement, and it's one of the greatest games ever made. And a lot of games from 35 years ago are basically unplayable now. They might have been a step to something greater, but Mario was one of those few that really holds up today as it did then.
+    It’s just such a joy [#f45]_ to play. It's running and jumping, and it's the joy of movement [#f46]_ . 
+    When, when you play, even the original Super Mario Bros [#f21]_ , 
+    you just feel this sense [#f47]_ of joy in your movement, and it's one of the greatest [#f48]_ games ever made. 
+    And a lot of games from 35 years ago are basically [#f49]_ unplayable now. 
+    They might have been a step to something greater [#f50] , 
+    but Mario was one of those few that really **holds up** [#f51]_ today as it did then.
 
 Rob
-    Keza Macdonald said that some games from 35 years ago are unplayable – so, not possible to play them.
+    Keza Macdonald said that some games from 35 years ago are unplayable 
+    – so, not possible to play them.
 
 Georgina
-    But she said that Mario holds up – a term used to say that something’s standards or quality has not lessened.
+    But she said that Mario **holds up** 
+    – a term used to say that something’s standards [#f52]_ or quality has not lessened [#f53]_ .
 
 Rob
-    It certainly does hold up – in fact, I played it the other day and I had lots of fun with it – it reminded me of my childhood, and it’s still as good now as it was then.
+    It certainly [#f54]_ does hold up 
+    – in fact, I played it **the other day** [#f55]_ and I had lots of fun with it 
+    – it reminded [#f56]_ me of my childhood, and it’s still as good now as it was then.
 
 Georgina
-    Which reminds me of your quiz question, Rob.
+    Which reminds [#f56]_ me of your quiz [#f57]_ question, Rob.
 
 Rob
-    Yes, in my quiz question I asked Georgina which game had the first appearance of that famous [#f20]_ plumber, Mario.
+    Yes, in my quiz question I asked Georgina which game had the first appearance of that famous [#f20]_ plumber [#f58]_ , Mario.
 
 Georgina
     I went for a) The Legend of Zelda.
@@ -197,4 +207,19 @@ Georgina
 .. [#f40] **falling off a cliff** :  英 [ˈfɔːlɪŋ ɒf ə klɪf]   美 [ˈfɔːlɪŋ ɔːf ə klɪf] ;  跌落悬崖
 .. [#f41] **be  rescued** : 获救
 .. [#f42] **took off** :  脱(衣服,帽子,鞋子等);  起飞
-.. [#f43] **interesting** : 英 [ˈɪntrəstɪŋ]   美 [ˈɪntrəstɪŋ] ;  adj. 有趣的;有吸引力的  v. 使感兴趣;使关注 interest的现在分词
+.. [#f43] **interesting** : 英 [ˈɪntrəstɪŋ] 美 [ˈɪntrəstɪŋ] ; adj. 有趣的;有吸引力的  v. 使感兴趣;使关注 interest的现在分词
+.. [#f44] **satisfying** : 英 [ˈsætɪsfaɪɪŋ] 美 [ˈsætɪsfaɪɪŋ]; adj.  令人满意(或满足)的 v.  使满意;使满足;满足(要求、需要等);向…证实;使确信 satisfy的现在分词
+.. [#f45] **joy** :  英 [dʒɔɪ]   美 [dʒɔɪ]; n.  快乐;喜悦;乐趣;高兴;愉快;令人高兴的人(或事);乐事;成功;满意;满足 v.  欢乐
+.. [#f46] **movement** : 英 [ˈmuːvmənt]   美 [ˈmuːvmənt]; n.  (身体部位的)运动，转动;移动;迁移;转移;活动;(具有共同思想或目标的)运动;逐步的转变;进步，进展;量的变化;乐章
+.. [#f47] **sense** : 英 [sens]   美 [sens] ;  n.  感觉;感觉官能(即视、听、嗅、味、触五觉);(对重大事情的)意识;理解力;判断力;见识;健全的心智;意义 v.  感觉到;意识到;觉察出;检测出
+.. [#f48] **greatest** : 英 [ˈgreɪtɪst]   美 [ˈgreɪtəst] ; adv.  很好地;极好地;很棒地 adj.  大的;巨大的;数量大的;众多的;(强调尺寸、体积或质量等)很;非常的;很多的;极大的 great的最高级 
+.. [#f49] **basically** :  英 [ˈbeɪsɪkli]   美 [ˈbeɪsɪkli] ; adv.  大体上;基本上;总的说来;从根本上说
+.. [#f50] **greater** 英 [ˈgreɪtə]   美 [ˈgreɪtər]  great 的比较级 adj.  更大的;
+.. [#f51] **holds up** : 承受;支撑；举起
+.. [#f52] **standards** :  英 [ˈstændədz]  美 [ˈstændərdz] ; n.  (品质的)标准，水平，规格，规范;正常的水平;应达到的标准;行为标准;道德水准 standard的复数
+.. [#f53] **lessened** : 英 [ˈlesnd]  美 [ˈlesnd] ;  v.  (使)变小，变少，减弱，减轻 lessen的过去分词和过去式
+.. [#f54] **certainly** : 英 [ˈsɜːtnli]   美 [ˈsɜːrtnli] ;  adv.  当然;肯定;无疑;确定;行
+.. [#f55] **the other day** : 英 [ðə ˈʌðə(r) deɪ]   美 [ðə ˈʌðər deɪ]  几天前;前两天
+.. [#f56] **reminded** : 英 [rɪˈmaɪndɪd]   美 [rɪˈmaɪndɪd]  ; v.  提醒;使想起 remind的过去分词和过去式
+.. [#f57] **quiz** : 英 [kwɪz]   美 [kwɪz] ; n.  测验; 知识竞赛;智力游戏 ; vt.  盘问;查问;询问;测验(学生)
+.. [#f58] **plumber** : 英 [ˈplʌmə(r)]   美 [ˈplʌmər] ; n.  水暖工;管子工;铅管工
