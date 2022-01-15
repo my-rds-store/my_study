@@ -14,7 +14,7 @@ Welcome to my_study's documentation!
    math/index
 
 
----
+----
 
 * `山东理工大学硕士招生 <https://yjsh.sdut.edu.cn/5153/list.htm>`_
    * `山东理工大学2022年招收攻读硕士学位研究生招生简章 <https://yjsh.sdut.edu.cn/2021/0915/c5153a438567/page.htm>`_

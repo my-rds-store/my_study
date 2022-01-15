@@ -127,32 +127,34 @@ Georgina
     Which reminds [#f56]_ me of your quiz [#f57]_ question, Rob.
 
 Rob
-    Yes, in my quiz question I asked Georgina which game had the first appearance of that famous [#f20]_ plumber [#f58]_ , Mario.
+    Yes, in my quiz question I asked Georgina which game had the first appearance [#f58]_ of that famous [#f20]_ plumber [#f59]_ , Mario.
 
 Georgina
     I went for a) The Legend of Zelda.
 
 Rob
-    Which is wrong, I’m afraid! Mario’s first appearance was in Donkey Kong, and his creator, Shigeru Miyamoto, never thought he would be that popular.
+    Which is wrong, I’m afraid! Mario’s first appearance was in Donkey Kong, 
+    and his creator, Shigeru Miyamoto, never thought he would be that popular.
 
 Georgina
-    Well, I guess we’ve all really learnt something today. Let’s recap the vocabulary from today’s programme about Super Mario, starting with iconic [#f7]_ 
-    – famously associated with something and instantly recognisable . 
+    Well, I guess we’ve all really learnt [#f60]_ something today. 
+    Let’s recap [#f61]_ the vocabulary [#f62]_ from today’s programme about Super Mario, starting with iconic [#f7]_ 
+    – famously associated [#f63]_ with something and instantly [#f64]_ recognisable [#f65]_ . 
 
 Rob
-    Then we had a flood of which means a large amount of something in a short space of time.
+    Then we had **a flood of** which means a large amount of something in a **short space of time** .
 
 Georgina
-    Cited means reference as or noted.
+    **Cited** means reference as or noted.
 
 Rob
-    Boom [#f39]_ relates to explosion and means a short period of sudden growth. 
+    **Boom** [#f39]_ relates to explosion [#f66]_ and means a short period of sudden growth. 
 
 Georgina
-    Unplayable describes something that can’t be played or a game that is very difficult to enjoy.
+    **Unplayable** describes something that can’t be played or a game that is very difficult to enjoy.
 
 Rob
-    And finally, holds up means that the quality or standards of something hasn’t changed and still looks good or plays well.
+    And finally, **holds up** means that the quality or standards of something hasn’t changed and still looks good or plays well.
 
 Georgina
     That’s all for this programme.
@@ -203,7 +205,7 @@ Georgina
 .. [#f36] **burying** : 英 [ˈberiɪŋ]   美 [ˈberiɪŋ] ;  v.  埋葬;安葬;丧失(某人);把(某物)掩藏在地下;埋藏 n.  埋 bury的现在分词
 .. [#f37] **desert** : 英 [ˈdezət , dɪˈzɜːt]  美 [ˈdezərt , dɪˈzɜːrt] ; n.  沙漠;荒漠;荒原 v.  抛弃，离弃，遗弃(某人);舍弃，离弃(某地方);擅离(部队);逃走;开小差;废弃;背离 adj.  不毛的;沙漠的;无人的
 .. [#f38] **revolutionary** : 英 [ˌrevəˈluːʃənəri]  美 [ˌrevəˈluːʃəneri] ; adj.  革命性的;革命的;彻底变革的;巨变的 n.  (支持)改革者;(尤指)革命者，革命支持者
-.. [#f39] **boom** : 英 [buːm]   美 [buːm] ;  n.  繁荣;(贸易和经济活动的)激增;(某种体育运动、音乐等)突然风靡的时期;帆桁;深沉的响声;水栅;吊杆 v.  激增;轰鸣;轰响;以低沉有力的声音说;迅速发展;繁荣昌盛
+.. [#f39] **boom** : 英 [buːm]   美 [buːm] ;  n. (某种体育运动、音乐等)突然风靡的时期; 繁荣;(贸易和经济活动的)激增;帆桁;深沉的响声;水栅;吊杆 v.激增;轰鸣;轰响;以低沉有力的声音说;迅速发展;繁荣昌盛
 .. [#f40] **falling off a cliff** :  英 [ˈfɔːlɪŋ ɒf ə klɪf]   美 [ˈfɔːlɪŋ ɔːf ə klɪf] ;  跌落悬崖
 .. [#f41] **be  rescued** : 获救
 .. [#f42] **took off** :  脱(衣服,帽子,鞋子等);  起飞
@@ -222,4 +224,12 @@ Georgina
 .. [#f55] **the other day** : 英 [ðə ˈʌðə(r) deɪ]   美 [ðə ˈʌðər deɪ]  几天前;前两天
 .. [#f56] **reminded** : 英 [rɪˈmaɪndɪd]   美 [rɪˈmaɪndɪd]  ; v.  提醒;使想起 remind的过去分词和过去式
 .. [#f57] **quiz** : 英 [kwɪz]   美 [kwɪz] ; n.  测验; 知识竞赛;智力游戏 ; vt.  盘问;查问;询问;测验(学生)
-.. [#f58] **plumber** : 英 [ˈplʌmə(r)]   美 [ˈplʌmər] ; n.  水暖工;管子工;铅管工
+.. [#f58] **appearance** : 英 [əˈpɪərəns]   美 [əˈpɪrəns]  n.  外貌;外观;外表;(尤指突然的)抵达，到来;起源;出现;首次使用;公开露面;出版
+.. [#f59] **plumber** : 英 [ˈplʌmə(r)]   美 [ˈplʌmər] ; n.  水暖工;管子工;铅管工
+.. [#F60] **learnt** : 英 [lɜːnt]   美 [lɜːrnt] ; v.  学;学习;学到;学会;听到;得知;获悉;记住;背熟;熟记 learn的过去分词和过去式
+.. [#f61] **recap** : 英 [ˈriːkæp]   美 [ˈriːkæp] ; v.  概括;扼要重述;简要回顾 n.  胎面翻新的轮胎;重述要点;<新闻>简明新闻
+.. [#f62] **vocabulary** : 英 [vəˈkæbjələri] 美 [vəˈkæbjəleri];  n.  (某学科中所使用的或某一语言的)词汇;(某人掌握或使用的)词汇量;词汇表
+.. [#f63] **associated** 英 [əˈsəʊsieɪtɪd]  美 [əˈsoʊsieɪtɪd] ; adj.  有关联的;相关的;有联系的;(用于联合企业的名称)联合的 v.  联想;联系;交往;(尤指)混在一起;表明支持;表示同意 associate的过去分词和过去式 
+.. [#f64] **instantly** :  英 [ˈɪnstəntli]   美 [ˈɪnstəntli] ; adv.  立刻;立即;马上 conj.  一…就
+.. [#f65] **recognisable** : 可辨认的;可识别的
+.. [#f66] **explosion** :  英 [ɪkˈspləʊʒn]   美 [ɪkˈsploʊʒn]  n.  爆炸;爆破;爆裂(声);突增;激增;(感情，尤指愤怒的)突然爆发，迸发
