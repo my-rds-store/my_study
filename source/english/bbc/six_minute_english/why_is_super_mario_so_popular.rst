@@ -79,7 +79,7 @@ Keza MacDonald
     And, so we’d had that, especially in America, this didn't happen so much in Europe, 
     but in America just been lots and lots of software.  None of it was all that great. 
     There hadn't been anything really revolutionary [#f38]_ in some years, 
-    so the video game boom [#f39] was really **falling off a cliff** [#f40]_ and Nintendo **is what rescued** [#f41]_ in the US especially.
+    so the video game boom [#f39]_ was really **falling off a cliff** [#f40]_ and Nintendo **is what rescued** [#f41]_ in the US especially.
 
 Georgina
     Keza MacDonald used the term **a flood of**  – meaning a large number in a short period of time 
@@ -90,7 +90,7 @@ Rob
     when talking about the game ET being a reference for a factor [#f33]_ in the collapse [#f34]_  of the **console market** [#f26]_ .
 
 Georgina
-    And she said boom – a sudden period of growth. 
+    And she said boom [#f39]_ – a sudden period of growth. 
     So as ET was mentioned [#f1]_ as a factor [#f33]_ in the collapse [#f34]_ , many people say that Super Mario Bros [#f21]_ . 
     was the reason that video games really **took off** [#f42]_ , especially in the US.
 
@@ -136,7 +136,7 @@ Georgina
     Cited means reference as or noted.
 
 Rob
-    Boom relates to explosion and means a short period of sudden growth. 
+    Boom [#f39]_ relates to explosion and means a short period of sudden growth. 
 
 Georgina
     Unplayable describes something that can’t be played or a game that is very difficult to enjoy.
