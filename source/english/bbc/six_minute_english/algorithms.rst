@@ -106,7 +106,7 @@ Neil
     That phrase – in a flash – reminds me of how Albert Einstein came up with his famous equation, E=MC :sup:`2`.
 
 Sam
-    And that reminds me of your quiz question. You asked about the ‘E’ in E=MC2. I said it stands for ‘energy’. So, was I right?
+    And that reminds me of your quiz question. You asked about the ‘E’ in E=MC :sup:`2`. I said it stands for ‘energy’. So, was I right?
 
 Neil
     ‘Energy’ is the correct answer. Energy equals ‘M’ for mass, multiplied by the Constant  ‘C’ which is the speed of light, squared.
