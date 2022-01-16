@@ -16,6 +16,10 @@ Welcome to my_study's documentation!
 
 ----
 
+* `硕士专业目录查询 <https://yz.chsi.com.cn/zsml/zyfx_search.jsp>`_
+
+---------------
+
 * `山东理工大学硕士招生 <https://yjsh.sdut.edu.cn/5153/list.htm>`_
    * `山东理工大学2022年招收攻读硕士学位研究生招生简章 <https://yjsh.sdut.edu.cn/2021/0915/c5153a438567/page.htm>`_
    * `2022 年硕士研究生招生专业目录 <https://yjsh.sdut.edu.cn/_upload/article/files/b2/1f/f203b0f34b4c92abaa81942de5bd/8b3156d9-4f8d-4494-b2cd-5a005e63e30d.pdf>`_

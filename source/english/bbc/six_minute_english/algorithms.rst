@@ -22,13 +22,16 @@ Sam
     And I’m Sam.
 
 Neil
-    What do shopping with a credit card, finding love through internet dating and waiting for the traffic lights to change have in common?
+    What do shopping with a credit [#f1]_ card, finding love through internet dating [#f2]_ 
+    and waiting for the traffic lights to change have in common?
 
 Sam
-    Hmmm, they all involve computers? 
+    Hmmm, they all involve [#f3]_ computers? 
 
 Neil
-    Good guess, Sam! But how exactly do those computers work? The answer is that they all use algorithms – sets of mathematical instructions which find solutions to problems.
+    Good guess, Sam! But how exactly [#f4]_ do those computers work? 
+    The answer is that they all use algorithms [#f5]_ 
+    – sets [#f6]_ of mathematical [#f7]_ instructions [#f8]_ which find solutions to problems.
 
 Sam
     Although they are often hidden, algorithms are all around us. From mobile phone maps to home delivery pizza, they play a big part of modern life. And they’re the topic of this programme.
@@ -64,7 +67,10 @@ Sam
     Ramesh Srinivasan is Professor of Information Studies at the University of California. Here’s what he said when asked what the word ‘algorithm’ actually means by BBC World Service’s programme, The Forum: 
 
 Ramesh Srinivasan
-    My understanding of the term ‘algorithm’ is that it’s not necessarily the bogyman, or its not necessarily something that is, you know, inscrutable or mysterious to all people – it’s the set of instructions that you write in some mathematical form or in some software code – so it’s the repeated set of instructions that are sequenced, that are used and applied to answer a question or resolve a problem – it’s a simple as that, actually.
+    My understanding of the term ‘algorithm’ is that it’s not necessarily the bogyman, or its not necessarily something that is, you know, inscrutable or mysterious to all people 
+    – it’s the set of instructions [#f8]_  that you write in some mathematical form or in some software code 
+    – so it’s the repeated set of instructions [#f8]_ that are sequenced, that are used and applied to answer a question or resolve a problem 
+    – it’s a simple as that, actually.
 
 Sam
     Some think that algorithms have been controversial, but Professor Srinivasan says they are not necessarily the bogyman. The bogyman refers to something people call ‘bad’ or ‘evil’ to make other people afraid.
@@ -97,7 +103,7 @@ Sam
     Just like grouping the apples by size, sorting hundreds of emails by hand would take a long time. But using algorithms, computers do it in a flash – very quickly or suddenly.
 
 Neil
-    That phrase – in a flash – reminds me of how Albert Einstein came up with his famous equation, E=MC2.
+    That phrase – in a flash – reminds me of how Albert Einstein came up with his famous equation, E=MC :sup:`2`.
 
 Sam
     And that reminds me of your quiz question. You asked about the ‘E’ in E=MC2. I said it stands for ‘energy’. So, was I right?
@@ -131,3 +137,42 @@ Neil
 
 Sam
     Goodbye!
+
+
+.. rubric:: 注释
+
+.. [#f1]  credit 英 [ˈkredɪt]   美 [ˈkredɪt] ;
+
+    * n . 信用;学分;贷款;赊购;赊欠;(从银行借的)借款;(借钱偿还的)信誉;结余;存款金额，贷记;有权索要的款项;赞扬;为…赢得荣誉的人（或事物）; 片头字幕，片尾字幕
+    * vt . (给银行账户)存入金额;把…记入贷方;贷记(银行账户);认为是…的功劳;把…归于;认为…有(良好的品质或特点);认为…属（某种类或性质）;相信
+
+.. [#f2] **date** 英 [deɪt]   美 [deɪt] ; 
+
+    * n .  日期;日子;年代;时期;时候;会晤时间;约见时间;约会;约会对象;海枣 
+    * v .  注明日期;写上日期;确定年代;过时;不流行;使…显老;与（某人）谈恋爱
+
+.. [#f3] **involve**  英 [ɪnˈvɒlv]   美 [ɪnˈvɑːlv] ; 
+
+    * vt .  涉及;包含;牵涉;需要;使成为必然部分(或结果);牵连;影响;(使)参加，加入;表明
+
+.. [#f4] **exactly** 英 [ɪɡˈzæktli]   美 [ɪɡˈzæktli]  
+
+    adv .  确切地;准确地;精确地;(要求得到更多信息)究竟，到底;(答语，表示赞同或强调正确)一点不错，正是如此，完全正确
+
+.. [#f5] **algorithm** 英 [ˈælɡərɪðəm]   美 [ˈælɡərɪðəm]  
+
+    * n.  算法;计算程序
+
+.. [#f6] **set** 英 [set]   美 [set]  
+    * v .  设置;放;使处于某种状况;使开始;把故事情节安排在;以…为…设置背景;摆放餐具;镶嵌;安排;树立;布置;凝固;使现出坚定的表情;固定发型;把（断骨）复位;排版;为…谱曲;落（下）
+    * n .  一套;一副(类似的东西);一组(配套使用的东西);一伙(或一帮、一群)人;阶层;团伙;电视机;布景;舞台;盘，局;集;一组歌曲（或乐曲）;一批学生;（尤指坚定的）姿势，姿态，神情;头发的定型;凝固;（供移植的）秧苗，插枝，球茎
+    * adj .  位于(或处于)…的;安排好的;确定的;固定的;顽固的;套（餐）;有可能的;呆板的
+
+.. [#f7] **mathematical** 英 [ˌmæθəˈmætɪkl]   美 [ˌmæθəˈmætɪkl]  
+
+    * adj . 数学的;(具有)数学(头脑)的;运算能力强的
+
+.. [#f8] **instruction** 英 [ɪnˈstrʌkʃn]   美 [ɪnˈstrʌkʃn]  
+
+    * n .  用法说明;操作指南; **指示** ;命令;吩咐; **(计算机的)指令** ;教授
+    * adj .  说明用法的;操作指南的
