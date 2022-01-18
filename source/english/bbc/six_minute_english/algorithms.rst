@@ -34,16 +34,23 @@ Neil
     – sets [#f6]_ of mathematical [#f7]_ instructions [#f8]_ which find solutions to problems.
 
 Sam
-    Although they are often hidden, algorithms are all around us. From mobile phone maps to home delivery pizza, they play a big part of modern life. And they’re the topic of this programme.
+    Although they are often hidden, algorithms are all around us. 
+    From mobile phone maps to home delivery [#f9]_ pizza [#f10]_, they play a big part of modern [#f11] life. 
+    And they’re the topic of this programme.
 
 Neil
-    A simple way to think of algorithms is as recipes. To make pancakes you mix flour, eggs and milk, then melt butter in a frying pan and so on. Computers do this in more a complicated way by repeating mathematical equations over and over again.
+    A simple way to think of algorithms is as recipes [#f12]_ . 
+    To make pancakes [#f13]_ you mix flour [#f14]_ , eggs and milk, 
+    then melt [#f15]_ butter [#f16]_ in a **frying pan** [#f17]_ **and so on** [#f18]_ . 
+    Computers do this in more a complicated [#f19]_ way by repeating mathematical equations [#f20]_ over and over again.
 
 Sam
-    Equations are mathematical sentences showing how two things are equal. They’re similar to algorithms and the most famous scientific equation of all, Einstein's E=MC2, can be thought of as a three-part algorithm.
+    Equations [#f20]_ are mathematical sentences [#f21]_ showing how two things are equal. 
+    They’re similar [#f22]_ to algorithms and the most famous scientific [#f23]_ equation of all, 
+    Einstein's E=MC :sup:`2` , can be thought of as a three-part algorithm.
 
 Neil
-    But before my brain gets squashed by all this maths, I have a quiz question for you, Sam. As you know, Einstein’s famous equation is E=MC2 - but what does the ‘E’ stand for? Is it:
+    But before my brain gets squashed by all this maths, I have a quiz question for you, Sam. As you know, Einstein’s famous equation is E=MC :sup:`2` - but what does the ‘E’ stand for? Is it:
     ::
 
         a)    electricity?
@@ -61,7 +68,7 @@ Sam
     With all this talk of computers, you might think algorithms are a new idea. In fact, they’ve been around since Babylonian times, around 4,000 years ago.
 
 Neil
-    And their use today can be controversial. Some algorithms used in internet search engines have been accused of racial prejudice.
+    And their use today **can be** **controversial** . Some algorithms used in internet search engines have been accused of racial prejudice.
 
 Sam
     Ramesh Srinivasan is Professor of Information Studies at the University of California. Here’s what he said when asked what the word ‘algorithm’ actually means by BBC World Service’s programme, The Forum: 
@@ -176,3 +183,65 @@ Sam
 
     * n .  用法说明;操作指南; **指示** ;命令;吩咐; **(计算机的)指令** ;教授
     * adj .  说明用法的;操作指南的
+
+.. [#f9] **delivery** :  英 [dɪˈlɪvəri]   美 [dɪˈlɪvəri]  
+
+    * n .  传送;交付;分娩;递送;演讲方式;表演风格;投球
+
+.. [#f10] **pizza** :  英 [ˈpiːtsə]   美 [ˈpiːtsə]  
+
+    * n .  披萨;比萨饼;意大利饼
+
+.. [#f11] **modern** : 英 [ˈmɒdn]   美 [ˈmɑːdərn]  
+
+    * adj.  现代的;当代的;近代的;新式的;有别于传统的;时新的;现代化的;最新的;新式的，超前的
+    * n .  现代人;现代主义者;时髦人士;[印]现代字体;指印刷中所用的一种字体
+
+.. [#f12] **recipe** :  英 [ˈresəpi]   美 [ˈresəpi]  
+
+    * n .  配方;食谱;秘诀;方法;烹饪法;诀窍
+
+.. [#f13] **pancake** : 英 [ˈpænkeɪk]   美 [ˈpænkeɪk]  
+
+    * n .  烙饼;薄饼;(尤指舞台化妆用的)粉饼
+    * vi.  使平坠著陆;使平展平坠着陆;平展
+
+.. [#f14] **flour** :  英 [ˈflaʊə(r)]   美 [ˈflaʊər]  
+
+    * n .  (尤指小麦的)面粉;(谷物磨成的)粉
+    * vt .  在…上撒(或覆以)面粉
+
+.. [#f15] **melt** :  英 [melt]   美 [melt]  
+
+    * v.  熔化;(使)融化;(使)软化;变得温柔
+
+.. [#f16] **butter** : 英 [ˈbʌtə(r)]   美 [ˈbʌtər]  
+
+    * n .  黄油;奶油
+    * vt.  涂黄油于
+
+.. [#f17] **frying pan** 英 [ˈfraɪɪŋ pæn]   美 [ˈfraɪɪŋ pæn]  * n.  (长柄平底)煎锅
+
+.. [#f18] **and so on** : 英 [ənd səʊ ɒn]   美 [ənd soʊ ɑːn]  ;  等等;及诸如此类
+
+.. [#f19] **complicate** : 英 [ˈkɒmplɪkeɪt]   美 [ˈkɑːmplɪkeɪt]  
+
+    * vt.  （使）复杂化
+
+.. [#f20] **equation** : 英 [ɪˈkweɪʒn]   美 [ɪˈkweɪʒn]  
+
+    * n .  方程式;方程;等式;相等;等同看待;(多种因素的)平衡，综合体
+
+.. [#f21]  **sentence** : 英 [ˈsentəns]   美 [ˈsentəns]  
+
+    * n .  句子;判决;宣判;判刑
+    * vt .  判决;宣判;判刑
+
+.. [#f22] **similar** :  英 [ˈsɪmələ(r)]   美 [ˈsɪmələr]  
+
+    * adj.  相像的;相仿的;类似的
+    * n .  类似物;相像的人;相似物
+
+.. [#f23] **scientific** : 英 [ˌsaɪənˈtɪfɪk]   美 [ˌsaɪənˈtɪfɪk]  
+
+    * adj.  科学(上)的;关于科学的;细致严谨的;科学的
