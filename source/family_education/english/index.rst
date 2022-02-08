@@ -6,12 +6,15 @@ English
 
 * 厨房用品：
 
-:: 
-
-    microwave, fridge, toaster,  dish, cap
-    plate, bowl, knife, fork, chopsticks, spoon
+    microwave ovens,  fridge,  dish, `cup`_.
+    `plate`_, bowl, knife, fork, chopsticks, spoon
     napkin, pot, pan, oven, stove, fire
     spatula, sink.
+    toaster, 
+
+
+.. _cup: https://fanyiapp.cdn.bcebos.com/app/video/query/265cup.mp4
+.. _plate: https://fanyiapp.cdn.bcebos.com/app/video/query/dd26d20d-3611-7386-0d5d-217abcbcae92.mp4
 
 
 * 食品饮料：
@@ -80,6 +83,14 @@ English
     See? this is an orange. Would you like a glass of orange juice? 
     OK. I'm pouring orange juice into this glass. Smell it. Does it smell good? 
     Drink it. Mmm... It tastes really good!
+
+
+-----------
+
+.. raw:: html
+
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=650 height=500 
+    src="https://m.ximalaya.com/sound/140132338"></iframe>
 
 
 
