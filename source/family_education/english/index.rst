@@ -1,20 +1,46 @@
 English
 ================
 
+* 目标
+    * 2 岁 , `100` 个词汇量
+    * 3 岁 , `1000` 个词汇量 ==> 报班，少儿英语 一对一，辅导;
+    * 4~5 岁 , `3000` 个词汇里 ==> 报班，少儿英语 一对一，辅导;
+
+* 方式方法
+    * 电视以及网路,管控
+    * 作息时间 
+    * 亲子互动
+
 日常常用词汇
 ---------------
 
 * 厨房用品：
 
-    microwave ovens,  fridge,  dish, `cup`_.
-    `plate`_, bowl, knife, fork, chopsticks, spoon
-    napkin, pot, pan, oven, stove, fire
-    spatula, sink.
-    toaster, 
+
+===============  ==================  =====================
+英语              音标                 中文
+===============  ==================  =====================
+`microwave`_     [ˈmaɪkrəweɪv]       微波炉  
+`fridge`_        [frɪdʒ]             冰箱
+`dish`_          [dɪʃ]               碟;盘;      
+`cup`_           [kʌp]               杯子
+`plate`_
+===============  ==================  =====================
 
 
+.. _microwave: https://fanyiapp.cdn.bcebos.com/app/video/query/315microwave.mp4
+.. _fridge: https://fanyiapp.cdn.bcebos.com/app/video/query/162fridge.mp4
+.. _dish: http://media6.smartstudy.com/89/0f/68928/5/dest.mp4
 .. _cup: https://fanyiapp.cdn.bcebos.com/app/video/query/265cup.mp4
 .. _plate: https://fanyiapp.cdn.bcebos.com/app/video/query/dd26d20d-3611-7386-0d5d-217abcbcae92.mp4
+
+
+::
+
+     ovens,   bowl, knife, fork, chopsticks, 
+     spoon napkin, pot, pan, oven, stove, fire spatula, sink.  toaster, 
+
+
 
 
 * 食品饮料：
@@ -99,3 +125,13 @@ English
 
 * https://zhuanlan.zhihu.com/p/42886385
 * https://zhuanlan.zhihu.com/p/86358607
+
+------------------
+
+https://www.sosuopan.cn/file/58165546
+https://zhuanlan.zhihu.com/p/83161628
+https://www.sohu.com/a/215976792_165379
+https://www.zhihu.com/question/389511242
+https://www.jianshu.com/p/821a4806fab8
+https://www.jianshu.com/p/7a979f03f15d
+http://www.sxhrcs.cn/83.html
