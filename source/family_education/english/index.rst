@@ -116,6 +116,19 @@ walnut             [ˈwɔːlnʌt]         核桃
     touch,show me ,pick up, put down, give me, throw,  catch, 
     turn over, push, pull,lift
 
+===============  ================== =====  =====================
+英                音标               简写    中
+===============  ================== =====  =====================
+Monday                              Mon     星期一    
+Tuesday                             Tue     星期二    
+Wednesday                           Wed     星期三    
+Thursday                            Thu     星期四    
+Friday                              Fri     星期五    
+Saturday                            Sat     星期六    
+Sunday                              Sun     星期日    
+===============  ================== =====  =====================
+
+
 句子距离
 
 :: 
