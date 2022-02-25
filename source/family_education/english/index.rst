@@ -8,7 +8,6 @@ English
 .. image:: https://pic2.zhimg.com/80/v2-584c98ac6a46bbc860d1e30802e4a10d_720w.jpg
 
 
-
 日常常用词汇
 ---------------
 
