@@ -58,7 +58,9 @@ foot
 
 
 
-* https://www.xiaohongshu.com/discovery/item/5f0910fe0000000001002f0e
+* `英语启蒙之厨房场景～水煮蛋`_ 
+
+.. _英语启蒙之厨房场景～水煮蛋: https://www.xiaohongshu.com/discovery/item/5f0910fe0000000001002f0e
 
 
 * 家具：
