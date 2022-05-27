@@ -14,6 +14,11 @@ Lifelong Learning
 
 * `硕士专业目录查询 <https://yz.chsi.com.cn/zsml/zyfx_search.jsp>`_
 
+------
+
+* `关于-定向就业硕士生 <https://view.inews.qq.com/a/20211103A03LSR00>`_
+
+
 ---------------
 
 * `山东理工大学硕士招生 <https://yjsh.sdut.edu.cn/5153/list.htm>`_
