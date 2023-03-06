@@ -24,11 +24,11 @@ I hoped it was a call to look for lost **diamonds** [#f4]_ or **pearls** [#f5]_ 
 
 It was Annie.
 
-
 .. rubric:: 注释
 
-.. [#f1] detective :  英 [dɪˈtektɪv]  美 [dɪˈtektɪv] 
+.. [#f1] 
 
+    * detective :  英 [dɪˈtektɪv]  美 [dɪˈtektɪv]
     * n. 侦探;   警探;   私人侦探;  
     * adj. 侦查(用)的;  
 
