@@ -26,9 +26,8 @@ It was Annie.
 
 .. rubric:: 注释
 
-.. [#f1] 
+.. [#f1] detective `英 [dɪˈtektɪv]  美 [dɪˈtektɪv]`
 
-    * detective :  英 [dɪˈtektɪv]  美 [dɪˈtektɪv]
     * n. 侦探;   警探;   私人侦探;  
     * adj. 侦查(用)的;  
 
