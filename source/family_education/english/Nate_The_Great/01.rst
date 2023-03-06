@@ -1,6 +1,5 @@
 Nate The Great
-==============================================
-
+========================================
 
 My name is Nate the great. 
 
@@ -35,24 +34,23 @@ I knew that Annie did not diamonds or pearls or a million dollars to lose.
 "Of course", I said.
 
 
-"I have found lost ballons, books, slippers, chickens. Even
-a lost goldfish. Now I, Nate The Great, will find a lost picture."
+"I have found lost **ballons**, books, **slippers**, chickens. 
+Even a lost goldfish. Now I, Nate The Great, will find a lost picture."
 
 "Oh , good " Annie said.
 
-"When can you come over ?"
+"When can you **come over** ?"
 
 "I will be over in five minutes," I said.
 
-"Stay right  where you are.
+"Stay right where you are.
 Don't touch anything. DON'T MOVE!" 
 
+"My foot **itches** ," Annie said.
 
-"My foot itches," Annie said.
+" **Scratch** it", I said.
 
-"Scratch it", I said.
-
-I put on my detective suit.
+I put on my detective **suit**.
 
 I took my notebook and pencil.
 
@@ -80,7 +78,7 @@ It was a good breakfast.
 
 "I put it on my desk to dry. Then it was gone. It happend yesterday."
 
-"You should have called me yesterday," I said, "while the trail was hot.
+"You should have called me yesterday," I said, "while the **trail** was hot.
 I hate cool trails. Now, where would a picture go ?"
 
 "I don't know," Annie said.
@@ -91,16 +89,16 @@ I hate cool trails. Now, where would a picture go ?"
 
 "Sure, I'm sure. I will find the picture of Fang", I said.
 
-"Tell me. Does this house have any trapdoors or 
-secret passages ?"
+"Tell me. Does this house have any **trapdoors** or 
+secret **passages** ?"
 
 "No," Annie said.
 
-"No trapdors or secret passages?"
+"No trapdoors or secret passages?"
 
 I said, "This will be a very dull case."
 
-"I have a door that squeaks," Annie said.
+"I have a door that **squeaks** ," Annie said.
 
 "Have it fixed," I said.
 
@@ -112,18 +110,6 @@ I was big. It had yellow walls, a yellow bed, a yellow chair,
 and a yellow desk.
 
 I, Nate the Great, was sure one thing. Annie liked yellow.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -146,14 +132,12 @@ I, Nate the Great, was sure one thing. Annie liked yellow.
         * vt. 榨出(水果或蔬菜的)汁液;   榨汁;  
 
 .. [#f4] 
-    diamond 英 [ˈdaɪəmənd] 美 [ˈdaɪəmənd] 
-
-    * n. 金刚石;   钻石;   菱形;   (纸牌的)方块;   （一张）方块牌;   内场;  
-    * adj. 钻石(一样)的;   镶有钻石的;   菱形的;  
+    * diamond 英 [ˈdaɪəmənd] 美 [ˈdaɪəmənd] 
+        * n. 金刚石;   钻石;   菱形;   (纸牌的)方块;   （一张）方块牌;   内场;  
+        * adj. 钻石(一样)的;   镶有钻石的;   菱形的;  
 
 .. [#f5] 
-    pearl :  英 [pɜːl] 美 [pɜːrl] 
-
-    * n. 珍珠;   人造珍珠;   (形状或颜色)像珍珠之物;   极有价值的东西;  
-    * adj. 珍珠(制)的;   珍珠似的;  
-    * v. 使像珍珠；把(米,麦等)制成小粒；用珍珠装饰；使成珍珠色;  
+    * pearl :  英 [pɜːl] 美 [pɜːrl] 
+        * n. 珍珠;   人造珍珠;   (形状或颜色)像珍珠之物;   极有价值的东西;  
+        * adj. 珍珠(制)的;   珍珠似的;  
+        * v. 使像珍珠；把(米,麦等)制成小粒；用珍珠装饰；使成珍珠色;  
