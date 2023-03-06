@@ -1,0 +1,56 @@
+Nate The Great
+==============================================
+
+
+My name is Nate the great. 
+
+I am a **detective** [#f1]_ .
+
+I work alone.
+
+Let me tell you about my last **case** [#f2]_ :
+
+I had just eaten breakfast.
+
+It was a good breakfast.
+
+Pancakes , **juice** [#f3]_ , Pancakes, milk, and Pancakes.
+
+I like Pancakes.
+
+The telephone rang.
+
+I hoped it was a call to look for lost **diamonds** [#f4]_ or **pearls** [#f5]_ or a million dollars.
+
+It was Annie.
+
+
+
+.. rubric:: 注释
+
+.. [#f1] detective :  英 [dɪˈtektɪv]  美 [dɪˈtektɪv] 
+
+    * n. 侦探;   警探;   私人侦探;  
+    * adj. 侦查(用)的;  
+
+
+.. [#f2] case : 英 [keɪs] 美 [keɪs] 
+
+    * n. 案例;   实例;   具体情况;   事例;   实情，事实;   特殊情况;   （尤指警方）侦查的案情，调查的案件;   待裁决的案件;   诉讼;   （在审判、讨论等中支持一方的）论据，理由，辩词;   病例;   病人，伤员;   境况, 状况;   方面;   容器，箱，盒，罩;   框，架;   .( 一 ) 组， ( 一 ) 对;   （需特别对待或注意的）人;   （语法的）格;   <美俚>元;  
+    * vt. 把…装入箱 ( 或盒、套等 ) 内;   （用材料、物质）围绕；包盖;   <非正式>（盗抢前）踩点儿，探察;  
+
+.. [#f3] juice : 英 [dʒuːs] 美 [dʒuːs] 
+
+    * n. 果汁;   菜汁;   果汁(或菜汁)饮料;   肉汁;   胃液;   消化液;   汽油;   电;  
+    * vt. 榨出(水果或蔬菜的)汁液;   榨汁;  
+
+.. [#f4] diamond 英 [ˈdaɪəmənd] 美 [ˈdaɪəmənd] 
+
+    * n. 金刚石;   钻石;   菱形;   (纸牌的)方块;   （一张）方块牌;   内场;  
+    * adj. 钻石(一样)的;   镶有钻石的;   菱形的;  
+
+.. [#f5] pearl :  英 [pɜːl] 美 [pɜːrl] 
+
+    * n. 珍珠;   人造珍珠;   (形状或颜色)像珍珠之物;   极有价值的东西;  
+    * adj. 珍珠(制)的;   珍珠似的;  
+    * v. 使像珍珠；把(米,麦等)制成小粒；用珍珠装饰；使成珍珠色;  
