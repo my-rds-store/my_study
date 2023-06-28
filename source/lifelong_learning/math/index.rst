@@ -10,3 +10,11 @@ Math Study
    * `麻省理工公开课：线性代数》中文笔记 <https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes/blob/master/README.md>`_
    * `Gilbert Strang《线性代数》笔记 <https://zhuanlan.zhihu.com/p/387755668>`_
    * https://book.kongfz.com/424918/2093119772/
+
+* 乔治亚理工 - 线性代数
+   * https://textbooks.math.gatech.edu/ila/index2.html
+
+* edX
+   * https://github.com/flame/blis 
+   * http://www.ulaff.net/
+   * https://www.netlib.org/blas/
