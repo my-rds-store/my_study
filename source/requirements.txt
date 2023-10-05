@@ -1,1 +1,2 @@
 cloud-sptheme
+sphinx-rtd-theme
