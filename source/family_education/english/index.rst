@@ -14,9 +14,35 @@ English
 绘本
 ---------------
 
-* 鹅妈妈童谣
+* 鹅妈妈童谣 -1
     * `01.《Jerry Hall》 <https://baijiahao.baidu.com/s?id=1673201272277911259>`_
+    * `02.《MabelMabel》 <https://baijiahao.baidu.com/s?id=1674254319538850703>`_
+    * `03.《Jack and Jill》 <https://baijiahao.baidu.com/s?id=1674919667099401095>`_
+    * `04.《Shoo fly, don't bother me！》 <https://baijiahao.baidu.com/s?id=1690474197212252008>`_
+    * `05.《Humpty Dumpty》 <https://baijiahao.baidu.com/s?id=1675918790055009589>`_
+    * `06.《I'm Dusty Bill》 <https://baijiahao.baidu.com/s?id=1690661268020313869>`_
+    * `07.《Down at the station》 <https://baijiahao.baidu.com/s?id=1690741964409816925>`_
+    * `08.Cackle, cackle, Mother Goose <https://baijiahao.baidu.com/s?id=1690930013206847301>`_
+    * `09.Rain on the green grass <https://baijiahao.baidu.com/s?id=1678139184492184297>`_
+    * `10.《Warm hands, warm》 <https://baijiahao.baidu.com/s?id=1691020982879894806>`_
+    * `11.《I'm a little teapot》 <https://baijiahao.baidu.com/s?id=1691113841275791438>`_
+    * `12.Ride a cock horse <https://baijiahao.baidu.com/s?id=1691477861471207642>`_
+    * `13.To market, to market <https://baijiahao.baidu.com/s?id=1691866061318176656>`_
+    * `14.Jelly on a plate <https://baijiahao.baidu.com/s?id=1691935554561690172>`_
+    * `15.Wash the dishes <https://baijiahao.baidu.com/s?id=1692020332226414569>`_
+    * `16.Christopher Columbus <https://baijiahao.baidu.com/s?id=1692137605464251613>`_
+    * `17. 1 2, Buckle my shoe <https://baijiahao.baidu.com/s?id=1692221807593328032>`_
+    * `18.Donkey, donkey, old and grey <https://baijiahao.baidu.com/s?id=1692290603124115074>`_
+    * `19.Wee Willie Winkie <https://baijiahao.baidu.com/s?id=1692390247133835434>`
+
+* 鹅妈妈童谣 -2
+    * `20.As I was going to St Ives <https://baijiahao.baidu.com/s?id=1692496059792369887>`_
+    * `21.Hey diddle, diddle <https://baijiahao.baidu.com/s?id=1692746867341204442>`_
+    * `22. Dickory, dickory, dock <https://baijiahao.baidu.com/s?id=1693128098380176097>`_
+    * `23.Dickory, dickory dare <https://baijiahao.baidu.com/s?id=1693949419496486264>`_
+    * `24.The cat's got the measles <https://baijiahao.baidu.com/s?id=1694040630388901281>`_
     * `25.Pat-a-cake  <https://baijiahao.baidu.com/s?id=1694105522213846860>`_
+    * `26.Diddle, diddle, dumpling <https://baijiahao.baidu.com/s?id=1694189206727303400>`_
 
 
 日常常用词汇
