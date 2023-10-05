@@ -11,6 +11,14 @@ English
 .. image:: https://pic2.zhimg.com/80/v2-584c98ac6a46bbc860d1e30802e4a10d_720w.jpg
 
 
+绘本
+---------------
+
+* 鹅妈妈童谣
+    * `01.《Jerry Hall》 <https://baijiahao.baidu.com/s?id=1673201272277911259>`_
+    * `25.Pat-a-cake  <https://baijiahao.baidu.com/s?id=1694105522213846860>`_
+
+
 日常常用词汇
 ---------------
 
