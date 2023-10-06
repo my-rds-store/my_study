@@ -44,6 +44,13 @@ English
     * `25.Pat-a-cake  <https://baijiahao.baidu.com/s?id=1694105522213846860>`_
     * `26.Diddle, diddle, dumpling <https://baijiahao.baidu.com/s?id=1694189206727303400>`_
 
+* `车子高端英语启蒙 <https://mp.weixin.qq.com/s?__biz=MzU0MjQwMDA4Ng==&mid=2247494040&idx=1&sn=120a0a012a50dca35b2eee319e5e1ca7&chksm=fb19e2a1cc6e6bb773a162f3c739eb913bca688ed367c497807e149ceba4d7ac7172ac177573&scene=27>`_
+
+--------------
+
+* `Little Fox 分级动画目录(全9级) <https://zhuanlan.zhihu.com/p/534973513>`_
+* `little fox 短篇故事 <https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU1MDc0NDU2NQ==&action=getalbum&album_id=2634194155769970689#wechat_redirect>`_
+
 
 日常常用词汇
 ---------------
