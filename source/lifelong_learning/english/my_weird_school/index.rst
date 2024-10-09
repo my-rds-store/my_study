@@ -1,4 +1,4 @@
-youtube
+My Weird School
 ================
 
 .. toctree::
