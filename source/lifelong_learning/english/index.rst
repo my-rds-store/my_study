@@ -36,6 +36,7 @@ English Study
 
    youtube/index
    bbc/index
+   my_weird_school/index
 
 
 
