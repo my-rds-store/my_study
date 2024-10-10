@@ -18,14 +18,19 @@ My Weird School
 
     这里的几个关键点解释如下：
 
-    Just as long as：这是一个常用的短语，表示“只要”或“只要确保”。它用来提出一个条件，只要这个条件满足，说话者就感到满意或放心。
-    weren’t trying to sneak：这里使用了过去进行时，表示过去某个时间点正在进行的动作，但带有一种未完成或试图进行的意味。“sneak”是“偷偷做某事”的意思，所以“weren’t trying to sneak”表示“没有试图偷偷做某事”。
-    arithmetic into our conversation about football：这里将“arithmetic”（算术）和“our conversation about football”（我们的足球谈话）结合起来，表示“把算术偷偷加入到我们的足球谈话中”。
+    Just as long as：
+        这是一个常用的短语，表示“只要”或“只要确保”。它用来提出一个条件，只要这个条件满足，说话者就感到满意或放心。
+    weren’t trying to sneak：这里使用了过去进行时，表示过去某个时间点正在进行的动作，但带有一种未完成或试图进行的意味。
+                            “sneak”是“偷偷做某事”的意思，所以“weren’t trying to sneak”表示“没有试图偷偷做某事”。
+
+    arithmetic into our conversation about football：
+            这里将“arithmetic”（算术）和“our conversation about football”
+            （我们的足球谈话）结合起来，表示“把算术偷偷加入到我们的足球谈话中”。
 
     整句话传达了一种轻松幽默的语气，可能是在两人交谈时，其中一人突然提到了算术，而另一人则用这种方式提醒他/她，他们原本是在谈论足球，不希望话题被转移。
 
 
-Sometimes `it’s hard to tell` if Miss Daisy is serious or not.”
+Sometimes **it’s hard to tell** if Miss Daisy is serious or not.
 
 .. code::
 
