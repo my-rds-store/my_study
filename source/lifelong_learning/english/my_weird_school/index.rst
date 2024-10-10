@@ -6,9 +6,29 @@ My Weird School
    :caption: Contents:
 
 
-7.  Bonbons and Footballs
-------------------------------
+1 - Miss Daisy Is Crazy
+-----------------------------------------------
 
+(1) . Hate School! 
+```````````````````````
+
+(2) . Dumb Miss Daisy and Principal Klutz 
+``````````````````````````````````````````
+
+(3) . How to Spell Read 
+``````````````````````````````````````````
+
+(4) . Miss Daisy Is Crazy! 
+``````````````````````````````````````````
+
+(5) . The Most Genius Idea! 
+``````````````````````````````````````````
+
+(6) . What Do You Want to Be? 
+``````````````````````````````````````````
+
+(7) .  Bonbons and Footballs
+``````````````````````````````````````````
 
 **Just as long as** you weren’t trying to sneak arithmetic into our conversation about football. 
 
@@ -44,8 +64,8 @@ Sometimes **it’s hard to tell** if Miss Daisy is serious or not.
     整句话表达了一种对黛西小姐态度或意图的不确定性。可能是在某些情况下，黛西小姐的言行举止让人难以捉摸她到底是认真的还是在开玩笑或假装。这种不确定性可能源于她的表达方式、语气、身体语言或其他非言语信号，使得观察者难以准确判断她的真实意图。
 
 
-9. Put Those Books Away
-----------------------------------------
+(9) . Put Those Books Away
+``````````````````````````````````````````
 
 Kids were **plowing** their way through books and then running to the school library to ask Mrs. 
 Roopy if they could check out more.”
@@ -88,11 +108,11 @@ I read a book about frogs, and I **don’t even care anything about** frogs.
     不过，请注意，“couldn’t care less”是一个固定的英语表达，意思是“根本不在乎”或“完全不关心”。
 
 
-10. Football Players Are Really Dumb
-----------------------------------------
+(10)  . Football Players Are Really Dumb
+``````````````````````````````````````````
 
-11. We Rule the School! 
-----------------------------------------
+(11) . We Rule the School! 
+``````````````````````````````````````````
 
-12. Poor Miss Daisy 
-----------------------------------------
+(12) . Poor Miss Daisy 
+``````````````````````````````````````````
