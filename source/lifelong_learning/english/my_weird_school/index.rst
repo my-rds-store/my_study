@@ -108,8 +108,50 @@ I read a book about frogs, and I **don’t even care anything about** frogs.
     不过，请注意，“couldn’t care less”是一个固定的英语表达，意思是“根本不在乎”或“完全不关心”。
 
 
-(10)  . Football Players Are Really Dumb
+(10) . Football Players Are Really Dumb
 ``````````````````````````````````````````
+
+When Boomer Wiggins walked into the
+class, everybody gasped. He was really
+big and had so many muscles that they
+poked right against his shirt! We all
+crowded around him, and Boomer let us
+feel his arm muscles.
+
+.. code:: 
+
+    “When Boomer Wiggins walked into the class, everybody gasped.”
+        这里描述了一个场景，即当Boomer Wiggins走进教室时，所有人都发出了惊叹声（gasped）。这通常意味着Boomer的出现给人们留下了深刻的印象。
+
+    “He was really big and had so many muscles that they poked right against his shirt!”
+        这句话进一步描述了Boomer的外貌特征。他身材魁梧（really big），并且肌肉发达（so many muscles）。这些肌肉甚至在他的衬衫下凸起（poked right against his shirt），这是一个非常生动的描述，让人们能够直观地想象到Boomer的强壮。
+
+    “We all crowded around him, and Boomer let us feel his arm muscles.”
+        这句话描述了同学们对Boomer的反应。他们都被他的肌肉所吸引，所以都围拢过来（crowded around him）。而Boomer也很慷慨地让他们触摸他的手臂肌肉（let us feel his arm muscles）。
+
+
+I said she shouldn’t be **complaining** because she was the one who started it.
+
+.. code::
+
+    宾语从句：she shouldn’t be complaining because she was the one who started it.
+        这是一个复合句，作为“said”的宾语，表示“我说的内容”。
+            主句：she shouldn’t be complaining
+                表示“她不应该抱怨”。
+    原因状语从句：because she was the one who started it
+        表示“因为她是那个挑起事端的人”。
+            who started it 是一个定语从句，修饰先行词the one，表示“挑起事端的那个人”。
+
+
+
+“I have to read and study my **playbook** very carefully.”
+
+.. code::
+
+    “my playbook”：“playbook”在足球（以及其他团队运动）中指的是包含战术、策略、球员角色等信息的手册。
+        这个手册是球队准备比赛和训练时的重要参考。
+        因此， “my playbook”指的是Boomer所在球队或他自己作为球员所需遵循的战术手册。
+
 
 (11) . We Rule the School! 
 ``````````````````````````````````````````
