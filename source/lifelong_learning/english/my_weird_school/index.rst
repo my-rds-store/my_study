@@ -158,3 +158,38 @@ I said she shouldn’t be **complaining** because she was the one who started it
 
 (12) . Poor Miss Daisy 
 ``````````````````````````````````````````
+
+Sentence
+
+.. raw:: html
+
+    <head>
+        <style>
+            .keyword {
+                color: red;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <p> 
+            I was beginning to <span class="keyword">suspect</span> 
+            that Miss Daisy might have been just pretending that she didn’t know anything all along.
+        </p>
+
+        <p> 
+            Maybe she was joking, and maybe she wasn’t. You can never <span class="keyword">tell</span>
+            with Crazy Miss Daisy.
+            <p>`tell` 意味着“判断”或“识别”</p>
+        </p>
+    </body>
+
+
+
+
+Vocabulary
+    * **suspect**
+    * **insist**     v.坚持; 坚持说; 坚决要求; 固执己见
+    * **how come**   为什么；怎么会…（那样）
+    * **turns out**  事实证明；原来；到场;
+
