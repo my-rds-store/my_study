@@ -14,6 +14,10 @@ Math Study
 * 乔治亚理工 - 线性代数
    * https://textbooks.math.gatech.edu/ila/index2.html
 
+* Linear Algebra Done Right
+   * https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw
+
+
 * edX
    * https://github.com/flame/blis 
    * http://www.ulaff.net/
