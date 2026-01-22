@@ -6,6 +6,24 @@
 Math Study
 ====================================
 
+calculus
+----------------
+
+3Blue1Brown
+~~~~~~~~~~~~~~~~~
+
+* `Essence of Calculus (YouTube) <https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr>`_
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/WUvTyaaNkzM?si=v1Ian-VX5ySRXVq4&amp;start=14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://youtu.be/QmpaMAgsGiU?si=ysN3ppzR_9fvArAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 * 线性代数
    * `麻省理工公开课：线性代数》中文笔记 <https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes/blob/master/README.md>`_
    * `Gilbert Strang《线性代数》笔记 <https://zhuanlan.zhihu.com/p/387755668>`_
@@ -47,8 +65,10 @@ Math Study
          如马尔可夫链、随机漫步等。
    以上是与大模型相关的一些常见数学知识，实际应用中还可能涉及到其他领域的数学知识，如微分方程、信息论等。
 
+
+
 * `3Blue1Brown <https://www.3blue1brown.com/>`_
-   * `calculus <https://www.3blue1brown.com/topics/calculus>`_
+   * `Calculus Series <https://www.3blue1brown.com/topics/calculus>`_
    * `linear-algebra <https://www.3blue1brown.com/topics/linear-algebra>`_
    * `Probability <https://www.3blue1brown.com/topics/probability>`_
    * `Neural Networks <https://www.3blue1brown.com/topics/neural-networks>`_
