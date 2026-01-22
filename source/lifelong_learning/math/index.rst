@@ -18,11 +18,7 @@ calculus
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/WUvTyaaNkzM?si=v1Ian-VX5ySRXVq4&amp;start=14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-.. raw:: html
-
-   <iframe width="560" height="315" src="https://youtu.be/QmpaMAgsGiU?si=ysN3ppzR_9fvArAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+* `Differential Equations (YouTube) <https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6>`_
 
 * 线性代数
    * `麻省理工公开课：线性代数》中文笔记 <https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes/blob/master/README.md>`_
